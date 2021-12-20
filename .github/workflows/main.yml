@@ -1,5 +1,5 @@
 
-name: Build on Tag
+name: Build onll
 
 on:
   push:
